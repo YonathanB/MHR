@@ -1,0 +1,36 @@
+/******************************************************************
+*******************************************************************
+
+Template Name: paris
+Theme URI: http://themeforest.ninetofive.me/paris/
+Description: paris | creative agency template
+Author: ninetofive
+Author URI: http://www.ninetofive.me
+Version: 1.0
+							
+Designed & Handcrafted by Zan from ninetofive.me
+									
+*******************************************************************
+******************************************************************/
+
+/******************************************************************
+	Purple
+******************************************************************/
+::selection, ::-moz-selection, ::-webkit-selection {
+	background: #f5f894;
+}
+.color, .repeater a.get-in-touch:hover,a:hover, a.button:hover, .color-hover:hover, .accordion .header.ui-state-active h3, .accordion .header.ui-state-active .icon, .accordion .header:hover .icon, .accordion .header:hover h3, .accordion .header:hover h3, .accordion .header:hover .icon  {
+	color: #f5f894;
+}
+.color-bg, li.filter.active, a.social, .ui-state-active a.button {
+	background-color: #f5f894;
+}
+.divider h2 {
+	border-bottom: 4px solid #f5f894;
+}
+.preloader-overlay, .topbar.scroll, section.hero.solid {
+	background-color: #5e485f;
+}
+section.hero div.overlay, div.about-bg div.overlay, .hover, ul.gallery .hover, .repeater-bg, .modal-overlay {
+	background-color: rgba(245, 248, 148, 0.8);
+}
